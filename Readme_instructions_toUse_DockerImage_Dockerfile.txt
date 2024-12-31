@@ -1,7 +1,7 @@
 steps to execute image
 =========================
 
-step 1) download websocker_server_DockerImage.zip and unzip it to websocker_server_DockerImage.tar 
+step 1) download websocker_server_DockerImage.tar 
 
 step 2) to load this image to your docker environment
  
