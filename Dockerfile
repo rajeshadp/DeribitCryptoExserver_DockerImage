@@ -1,4 +1,4 @@
-# Use an official image as the base
+#  Use an official image as the base
 FROM ubuntu:22.04
 
 # Install essential tools and libraries
